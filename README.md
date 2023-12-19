@@ -31,7 +31,7 @@
   nabila makkasau-231031109-tugas-1-D.py
 
 * Tugas 2: Ganjil-Genap
-  
+  231031109-nabila makkasau-tugas1-10.py
   
 * Tugas 3: Jam
    231031109-nabila makkasau-tugas2-10.py
